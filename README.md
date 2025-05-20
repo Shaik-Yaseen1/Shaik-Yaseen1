@@ -37,19 +37,19 @@ Hi, I'm Shaik Mohammed Yaseen, a passionate Computer Science student with a stro
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashasvii">
+  <a href="https://www.linkedin.com/in/shaik-mohammed-yaseen-aa412524b/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30">
   </a>
-  <a href="https://github.com/Yashasvi-30">
+  <a href="https://github.com/Shaik-Yaseen1">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="30">
   </a>
   <a href="https://peerlist.io/yashasvii">
     <img alt="Peerlist" src="https://img.shields.io/badge/Peerlist-000000?style=flat&logo=peerlist&logoColor=white" height="30">
   </a>
-   <a href="mailto:yashasvi30gupta@gmail.com">
+   <a href="mailto:yaseenshaik1055@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30">
   </a>
-  <a href="https://twitter.com/yashasviig">
+  <a href="https://twitter.com/yaseenTech4">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30">
   </a>
 </p>
